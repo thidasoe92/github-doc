@@ -22,3 +22,17 @@ git pull origin master / git pull -f
 Creating new branch
 
 after finish and merge to master
+
+-------------------------
+
+setting git for every repository on ur computer
+
+git config --global user.name "Mona Lisa"
+
+git config --global user.email "email@example.com"
+
+for single repository
+------------------------
+
+git config user.name "username"
+git config user.email "email@example.com"
