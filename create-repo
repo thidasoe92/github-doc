@@ -1,0 +1,7 @@
+or create a new repository on the command line
+echo "# github-doc" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/thidasoe92/github-doc.git
+git push -u origin master
