@@ -5,3 +5,20 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/thidasoe92/github-doc.git
 git push -u origin master
+
+------------------------
+
+git add . or git add FILENAME
+
+git commit -m " message"
+
+git push -u origin master
+
+git pull origin master / git pull -f
+
+---------------------------
+
+
+Creating new branch
+
+after finish and merge to master
